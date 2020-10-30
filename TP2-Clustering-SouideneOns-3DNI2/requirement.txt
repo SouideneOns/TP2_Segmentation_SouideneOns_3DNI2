@@ -1,0 +1,8 @@
+pandas==1.0.5
+numpy==1.18.5
+watermark==2.0.2
+cv2==4.4.0
+skimage.io==0.16.2
+matplotlib.pyplot==3.2.2
+matplotlib.image==3.2.2
+
