@@ -1,3 +1,9 @@
+cluster == 1.4.1.post2  
+imageio ==  2.5.0      
+imagesize == 1.1.0 
+importlib-metadata == 0.17     
+kmeans-pytorch == 0.3        
+matplotlib ==   3.1.0     
 pandas==1.0.5
 numpy==1.18.5
 watermark==2.0.2
@@ -5,4 +11,8 @@ cv2==4.4.0
 skimage.io==0.16.2
 matplotlib.pyplot==3.2.2
 matplotlib.image==3.2.2
+scikit-image == 0.15.0     
+scikit-learn == 0.21.2 
+
+
 
